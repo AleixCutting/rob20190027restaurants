@@ -72,7 +72,7 @@ Down of each restaurant description you will find the availability and the basic
 
 <p> Menus rates.
   <ul>
-  Basic menu. Including starters to share, main course to choose and dessert to choose. Drink package includes 1 drink per person (Water, glass of wine, soft drink, beer) and coffee or tea. Rates from 35€ per person.
+  Basic menu. Including starters to share, main course to choose and dessert to choose. Drink package includes 1 drink per person (Water, glass of wine, soft drink, beer) and coffee or tea. Rates from 45€ per person.
   </ul>
 </p>
 </div>
