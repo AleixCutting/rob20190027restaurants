@@ -247,8 +247,6 @@ font-style: italic;
   
   * Net rates for Business travel
   
-  * For a group of minimum 12 pax.
-  
   * Cutting Edge Events management fee including in the detailed rates
   
   * VAT included. 
