@@ -55,7 +55,7 @@ library(knitr)
 ```
 
 
-# RESTAURANTS {.tabset .tabset-fade .tabset-pills}
+# RESTAURANTS OPTIONS {.tabset .tabset-fade .tabset-pills}
 
 Cutting Edge Events staff will  be at the restaurants with the group during the dinners. 
 As the group will stay 4 nights in Barcelona, we suggest you 6 different restaurant options to choose the ones you like the most. 
@@ -234,9 +234,95 @@ font-style: italic;
 
 <br>
 
-# MAP
+# LAST DINNER RESTAURANTS{.tabset .tabset-fade .tabset-pills}
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=18Gsxm_fgQk0UI2suDVimzm7MiO_hxOFe" width="100%" height="480"></iframe>
+For the last dinner in barcelona we suggest you three different restaurants for the group.
+
+One of them, Mirabé restaurant is located in the uptown, so a bus at disposal will be needed in case you go for this. 
+The other two restaurants are located in teh city centre, really close to the hotel, so guests can go by walk since there are only 10 minutes by walk. 
+
+The suggested restaurants are Vinoteca Torres, Tragaluz and Mirabé.
+
+## Vinoteca Torres
+
+<iframe src="Vinoteca Torres/Vinoteca.html" frameborder="0" width="100%" height="1300" scrolling="no"></iframe>
+
+<div class="budget">
+
+<p> Menu.
+  <ul>
+   Basic menu: 9 dishes to share. Including drink package (wine 1/3 per person, water and coffee). *Rates from: 59€ per person*
+  </ul>
+</p>
+</div>
+
+<style>
+
+.budget{
+background-color: #607D8B 
+color: white;
+padding: 10px;
+border: 1px solid black;
+margin-left: 5px;
+border-radius: 5px;
+font-style: italic;
+}
+</style>
+
+## Tragaluz
+
+<iframe src="TRAGALUZ/Tragaluz.html" frameborder="0" width="100%" height="1100" scrolling="no"></iframe>
+
+<div class="budget">
+
+<p> Menu.
+  <ul>
+   Basic menu: 3 courses menu. Including drink package (wine 1/3 per person, water and coffee). *Rates from: 67,5€ per person*
+  </ul>
+</p>
+</div>
+
+<style>
+
+.budget{
+background-color: #607D8B;
+color: white;
+padding: 10px;
+border: 1px solid black;
+margin-left: 5px;
+border-radius: 5px;
+font-style: italic;
+}
+</style>
+
+## Mirabé
+
+<iframe src="Mirabe/Mirabe.html" frameborder="0" width="100%" height="1300" scrolling="no"></iframe>
+
+<div class="budget">
+
+<p> Menu.
+  <ul>
+   Basic menu: 3 courses menu. Including drink package (wine 1/3 per person, water, beer or soft drink and coffee). *Rates from: 56,5€ per person*
+   
+   18 seater bus at disposal 4 hours for the dinner: *385€ VAT incl.*
+  </ul>
+</p>
+</div>
+
+<style>
+
+.budget{
+background-color: #607D8B;
+color: white;
+padding: 10px;
+border: 1px solid black;
+margin-left: 5px;
+border-radius: 5px;
+font-style: italic;
+}
+</style>
+
 
 *****
 
